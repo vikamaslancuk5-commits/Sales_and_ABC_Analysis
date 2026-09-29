@@ -3,6 +3,9 @@
 **Роль:** Data Analyst  
 **Інструменти та технології:** Google Sheets, просунуте моделювання даних, статистичний аналіз (медіани, розподіли), ABC-аналіз (Принцип Парето), когортний та операційний аналіз
 
+🔗 **Google Sheets Dashboard / Таблиця проєкту:**  
+[Переглянути розрахунки та ABC-аналіз в Google Sheets]([https://docs.google.com/spreadsheets/d/ВАШ_ІДЕНТИФІКАТОР_ТАБЛИЦІ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10HlrqUyUNNfBZ807k1l_PBtGyeySHfhkrcmgpgPrSmc/edit?usp=sharing))
+
 ---
 
 ## 1. Опис проєкту та бізнес-контекст
