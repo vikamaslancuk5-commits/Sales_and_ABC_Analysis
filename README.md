@@ -1,10 +1,8 @@
 # Комплексний аналіз продажів, регіональної ефективності та оптимізації асортименту (ABC-аналіз)
 
 **Роль:** Data Analyst  
-**Інструменти та технології:** Google Sheets, просунуте моделювання даних, статистичний аналіз (медіани, розподіли), ABC-аналіз (Принцип Парето), когортний та операційний аналіз
-
-🔗 **Google Sheets Dashboard / Таблиця проєкту:**  
-[Переглянути розрахунки та ABC-аналіз в Google Sheets]([https://docs.google.com/spreadsheets/d/ВАШ_ІДЕНТИФІКАТОР_ТАБЛИЦІ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10HlrqUyUNNfBZ807k1l_PBtGyeySHfhkrcmgpgPrSmc/edit?usp=sharing))
+**Інструменти та технології:** Google Sheets, просунуте моделювання даних, статистичний аналіз (медіани, розподіли), ABC-аналіз (Принцип Парето), когортний та операційний аналіз  
+🔗 **Проєктна таблиця:** [Переглянути розрахунки в Google Sheets](https://docs.google.com/spreadsheets/d/10HlrqUyUNNfBZ807k1l_PBtGyeySHfhkrcmgpgPrSmc/edit?usp=sharing)
 
 ---
 
